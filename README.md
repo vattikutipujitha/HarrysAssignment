@@ -26,3 +26,7 @@ Input:
 -1
 3 graphics
 -1
+
+Output:
+1 mathematics
+0 graphics
